@@ -12,8 +12,11 @@ PVWatts API.
 - Unit tests for the calculations
 
 ## Future plans
-- JavaFX window with charts of production vs. usage
-- Compare multiple system sizes
+- JavaFX window with an input form
+- Bar chart of monthly production vs. usage
+- Compare several system sizes (e.g., 3, 6, 9 kW) in one chart
+- Cache API responses in a local JSON file so the app works offline
+- Simple tree-shading adjustment (shade-level dropdown)
 
 ## Tech stack
 - Java 17+, Maven
