@@ -23,3 +23,5 @@ PVWatts API.
 
 ## System diagram
 ![System diagram](docs/system-diagram.png)
+## Eisenhower matrix
+[View the Eisenhower matrix](docs/eisenhower-matrix.pdf)
